@@ -28,7 +28,7 @@ For more detailed instructions on how to use Git in GitHub, see the [GitHub Docs
 ## Getting Help
 
 If you need help with Git in GitHub, there are a number of resources available:
-
+Read git Cheatsheet in the Repo for useage !
 - The [GitHub Docs](https://docs.github.com/en) provide detailed information on how to use Git in GitHub.
 - The [GitHub Community Forum](https://github.community/) is a great place to ask questions and get help from other developers.
 
